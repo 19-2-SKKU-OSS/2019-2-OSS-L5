@@ -21,7 +21,10 @@ paginate: true
 - Department : Software
 
 How contributed : 
-> - Implemented Algorithms with Familiar languages such as C, C++, Python.
+> - Implemented Algorithms with Familiar languages such as C, C++, Python.  
+> - Coin Change
+> - Longest Increasing Subsequence
+
 
 > - Optimized Algorithms 
 
