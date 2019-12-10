@@ -22,8 +22,8 @@ paginate: true
 
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.  
-> - Coin Change
-> - Longest Increasing Subsequence
+>  Coin Change
+>  Longest Increasing Subsequence
 
 
 > - Optimized Algorithms 
