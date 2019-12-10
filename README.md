@@ -80,7 +80,7 @@ This repository contains examples of various algorithms which were written on di
 ## Implemented algorithms with languages:
 
 * Already implemented algorithms: 👍
-* Algorithms we implemented: :dog:
+* Algorithms we implemented: :dog:  
 Language | BrainFuck | C | C# | C++ | Crystal | Go | Haskell | Java | JavaScript | Kotlin | Perl | Python | Racket | Ruby | Rust | Scala | Swift|
 ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 AStar Search |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
