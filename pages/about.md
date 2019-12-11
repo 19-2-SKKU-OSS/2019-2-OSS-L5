@@ -20,18 +20,18 @@ menu: true
 이를 이용하여 개발 능력과, 사고 능력, 최적화 기법을 학습하고 기량을 넓힐 수 있는 기회로 삼을 수 있음.
 
 -----------
-## Wiki page: [WIKI](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/wiki)
+# Wiki page: [WIKI](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/wiki)
 
-## 팀원 소개
+# 팀원 소개
 
-# 팀장
+## 팀장
 이름: 문원준  
 학과: 소프트웨어학과   
 학번: 2017315482  
 이메일: wjun0830@gmail.com  
 GitHub ID: wjun0830  
 
-# 팀원
+## 팀원
 이름:  윤상원  
 학과: 소프트웨어학과  
 학번:  2018313467  
@@ -67,9 +67,9 @@ GitHub ID: RSuhyeon
 
 -----------
 
-## Roles
+# Roles
 
-# 문원준 : 
+## 문원준 : 
 * Develop Algorithms Using Familiar Languages(C, C++, Java, Python) 
 
 > AlphaBetaPruning  
@@ -82,7 +82,7 @@ GitHub ID: RSuhyeon
 * Set up Static_page 
 * Make Wiki  
     
-# 윤상원 :
+## 윤상원 :
 * Develop Algorithms Using Familiar Languages(C, C++, Java) 
 
 > Counting Sort etc...
@@ -93,7 +93,7 @@ GitHub ID: RSuhyeon
 
 * Set up Static_page  
 
-# 정노원 :
+## 정노원 :
 * Develop Algorithms Using Familiar Languages(C, C++) 
 
 > Shell sort  
@@ -106,7 +106,7 @@ GitHub ID: RSuhyeon
 
 * Set up Static_page  
 
-# 이민성 :
+## 이민성 :
 * Develop Algorithms Using Familiar Languages(C, C++, python) 
 
 > Coin Change Algorithms using Greedy algorithm  
@@ -121,7 +121,7 @@ GitHub ID: RSuhyeon
 > selection sort etc...  
 * Set up Static_page  
 
-# 류수현 :
+## 류수현 :
 * Develop Algorithms Using Familiar Languages(C, Java) 
 
 > Counting Sort - C & Java   etc...
@@ -134,11 +134,11 @@ GitHub ID: RSuhyeon
 
 ---------------
 
-## 프로젝트 일정
+# 프로젝트 일정
 
 ***
 
-# 11월
+## 11월
 * 11월 3째 주
 > 팀 L5 결성
 
@@ -155,7 +155,7 @@ GitHub ID: RSuhyeon
 
 ***
 
-# 12월
+## 12월
 
 * 12월 1째 주
 > Team static page 선정 및 작업
