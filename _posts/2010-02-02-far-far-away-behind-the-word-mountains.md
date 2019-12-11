@@ -28,6 +28,8 @@ How contributed :
 
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
 
+***
+
 Implemented Source
 * C++ 
 1. AlphaBetaPruning
