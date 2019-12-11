@@ -105,7 +105,7 @@ Depth First Search |   | :+1: |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1
 Diffie Hellman |   |   |   |   |   |   | :+1: |   |   |   |   | :+1: |   |   |   |   |  |
 Dijkstras |   |   | :+1: | :+1: |   | :+1: |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 Doomsday |   |   | :+1: | :+1: |   |   |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: |   |   | :+1:|
-Dynamic Programming |   |   | :dog: |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
+Dynamic Programming |   | :dog: |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Edit Distance |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   | :+1:|
 Edmonds Karp |   |   |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Elevator Algorithm |   |   |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
@@ -125,14 +125,14 @@ Histogram Equalization |   |   |   |   |   |   |   | :+1: |   |   |   |   |   | 
 Insertion Sort |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :+1: | :+1:|
 Johnson Algorithm |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Kadanes |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
-Knapsack |   | :+1: | :dog: |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
+Knapsack |   | :dog: |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Knuth Morris Prath |   |   |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
 Kruskals Algorithm |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Leaky Bucket |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Linear Search |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :+1: | :+1: | :+1: | :+1: |   | :+1: | :+1: | :+1:|
 Longest Bitonic Subsequence |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Longest Common Subsequence |   | :+1: | :dog: | :+1: |   |   |   | :+1: |   |   |   | :+1: |   | :+1: |   |   |  |
-Longest Increasing Subsequence |   |   |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
+Longest Increasing Subsequence |   | :dog: |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 Longest Path |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Longest Subset Zero Sum |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Matrix Exponentiation |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
