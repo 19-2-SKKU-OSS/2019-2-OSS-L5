@@ -79,6 +79,8 @@ GitHub ID: RSuhyeon
 This repository contains examples of various algorithms which were written on different programming languages.
 ## Implemented algorithms with languages:
 
+* Already implemented algorithms: 👍
+* Algorithms we implemented: :dog:  
 
 Language | BrainFuck | C | C# | C++ | Crystal | Go | Haskell | Java | JavaScript | Kotlin | Perl | Python | Racket | Ruby | Rust | Scala | Swift|
 ---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -97,7 +99,7 @@ Conjugate Gradient |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |  
 Connected Component Labeling |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Count Sort |   |   |   |   |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Counting Inversions |   |   |   | :+1: |   | :+1: |   | :+1: |   |   |   |   |   |   |   |   |  |
-Counting Sort |   |   |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   | :+1: |   |   | :+1:|
+Counting Sort |   |   | :dog: | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   | :+1: |   |   | :+1:|
 Cycle Sort |   |   |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
 Depth First Search |   | :+1: |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   | :+1: |   |   |  |
 Diffie Hellman |   |   |   |   |   |   | :+1: |   |   |   |   | :+1: |   |   |   |   |  |
@@ -129,7 +131,7 @@ Kruskals Algorithm |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |   |  
 Leaky Bucket |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Linear Search |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :+1: | :+1: | :+1: | :+1: |   | :+1: | :+1: | :+1:|
 Longest Bitonic Subsequence |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
-Longest Common Subsequence |   | :+1: |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   | :+1: |   |   |  |
+Longest Common Subsequence |   | :+1: | :dog: | :+1: |   |   |   | :+1: |   |   |   | :+1: |   | :+1: |   |   |  |
 Longest Increasing Subsequence |   |   |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 Longest Path |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Longest Subset Zero Sum |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
