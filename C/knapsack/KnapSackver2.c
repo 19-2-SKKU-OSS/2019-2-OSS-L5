@@ -12,7 +12,7 @@ int* Fractional_KNAPSACK( int v, int w, int W ){
 	int* sack = (int *)malloc(sizeof(int)*item);
 	int tmp_weight;
 
-	while( load <= W && I < item ){
+	while( load <= W && i < item ){
 		if( W - load >= weights[i] ){
 			sack[i] = weights[i];
 			load = weights[i];
