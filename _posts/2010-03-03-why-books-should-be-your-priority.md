@@ -31,8 +31,9 @@ How contributed :
 
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin  
 >  [Swap] [1. Kotlin]  
->  [Selection sort] [2. Kotlin]
->  [Depth First Search] [1. C#]
+>  [Selection sort] [2. Kotlin]  
+>  [Swap] [1. C#]
+>  [Depth First Search] [2. C#]
 
 [1. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/CoinChange/CoinChange.c
 [2. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/LongestIncreasingSubsequence/LISver2.c
@@ -41,4 +42,5 @@ How contributed :
 
 [1. Kotlin]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/Swap/swap.kt
 [2. Kotlin]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/SelectionSort/SelectionSort.kt
-[1. C#]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%23/DepthFirstSearch/DepthFirstSearch.cs
+[1. C#]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%23/Swap/Swap.cs
+[2. C#]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%23/DepthFirstSearch/DepthFirstSearch.cs
