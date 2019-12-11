@@ -49,9 +49,11 @@ Implemented Source
 4. Longest Increasing Subsequence
 5. DFS
 6. FloydWarshall
+7. BinaryGCD
 
 * Python
 1. Kruskal
+2. Randomized_Qsort
 
 * JS
 1. Factorial
