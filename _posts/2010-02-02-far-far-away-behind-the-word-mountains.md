@@ -61,10 +61,10 @@ Implemented Source
 * JS
 1. [Factorial] [1.js]
 
-[1. C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/AlphaBetaPruning/AlphaBetaPruning.cpp
-[2. C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/EdmondsKarp/EdmondKarp.cpp
-[3. C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/tree/master/C%2B%2B/Factorial
-[4. C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/ErrorBackPropagation/ErrorBackPropagation.cpp
+[1.C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/AlphaBetaPruning/AlphaBetaPruning.cpp
+[2.C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/EdmondsKarp/EdmondKarp.cpp
+[3.C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/tree/master/C%2B%2B/Factorial
+[4.C++]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/ErrorBackPropagation/ErrorBackPropagation.cpp
 [1.C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/BellmanFord/BellmanFord.c
 [2.C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/Dijkstra/Dijkstra.c
 [3.C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DynamicProgramming/KnapSack.c
