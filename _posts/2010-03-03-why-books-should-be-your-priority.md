@@ -29,10 +29,12 @@ How contributed :
 
 > - Optimized Algorithms 
 
-> - Implemented Simple Algorithms with Unfamiliar languages such as Java.
+> - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin  
+>  [swap] [1]
 
 [1]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/CoinChange/CoinChange.c
 [2]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/LongestIncreasingSubsequence/LISver2.c
 [3]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/knapsack/KnapSackver2.c
 [4]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DynamicProgramming/KnapSack.c
 
+[1]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/Swap/swap.kt
