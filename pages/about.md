@@ -116,9 +116,10 @@ GitHub ID: RSuhyeon
 
 * Develop Algorithms Using Unfamiliar Languages(Kotlin, C#)
 
-> swap   
-> selection sort
+> swap  
+> selection sort  
 > depth first search etc...  
+
 * Set up Static_page  
 
 ## 류수현 :
