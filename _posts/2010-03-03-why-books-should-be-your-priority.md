@@ -32,7 +32,7 @@ How contributed :
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin  
 >  [Swap] [1. Kotlin]  
 >  [Selection sort] [2. Kotlin]  
->  [Swap] [1. C#]
+>  [Swap] [1. C#]  
 >  [Depth First Search] [2. C#]
 
 [1. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/CoinChange/CoinChange.c
