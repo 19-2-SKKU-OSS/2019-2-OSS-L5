@@ -22,17 +22,19 @@ paginate: true
 
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.  
->  [Coin Change] [1]  
->  [Longest Increasing Subsequence] [2]  
->  [Knapsack Problem] [3]  
->  [Dynamic Programming] [4]
+>  [Coin Change] [1. C]  
+>  [Longest Increasing Subsequence] [2. C]  
+>  [Knapsack Problem] [3.C]  
+>  [Dynamic Programming] [4. C]
 
 > - Optimized Algorithms 
 
-> - Implemented Simple Algorithms with Unfamiliar languages such as Java.
+> - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin  
+>  [swap] [1. Kotlin]
 
-[1]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/CoinChange/CoinChange.c
-[2]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/LongestIncreasingSubsequence/LISver2.c
-[3]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/knapsack/KnapSackver2.c
-[4]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DynamicProgramming/KnapSack.c
+[1. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/CoinChange/CoinChange.c
+[2. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/LongestIncreasingSubsequence/LISver2.c
+[3. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/knapsack/KnapSackver2.c
+[4. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DynamicProgramming/KnapSack.c
 
+[1. Kotlin]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/Swap/swap.kt
