@@ -28,5 +28,31 @@ How contributed :
 
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
 
+Implemented Source
+* C++ 
+1. AlphaBetaPruning
+2. EdmondsKarp
+3. Factorial - optimize with tail recursion
+4. ErrorBackPropagation
+
+* C
+1. BellmanFord
+2. Dijkstra
+3. DynamicProgramming
+
+* Kotlin 
+1. Factorial
+2. BFS
+3. Bubble Sort
+4. Longest Increasing Subsequence
+5. DFS
+6. FloydWarshall
+
+* Python
+1. Kruskal
+
+* JS
+1. Factorial
+
 
 
