@@ -23,7 +23,8 @@ paginate: true
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.  
 >  [Coin Change] [1]  
->  [Longest Increasing Subsequence] [2]
+>  [Longest Increasing Subsequence] [2]  
+>  [Knapsack Problem] [3]
 
 
 > - Optimized Algorithms 
@@ -32,5 +33,6 @@ How contributed :
 
 [1]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/CoinChange/CoinChange.c
 [2]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/LongestIncreasingSubsequence/LISver2.c
+[3]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/knapsack/KnapSackver2.c
 
 
