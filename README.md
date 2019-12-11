@@ -94,18 +94,18 @@ Bloom Filter |   |   |   |   |   |   |   |   |   |   |   | :+1: |   |   |   |   
 Borweins Algorithm |   |   |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
 Bubble Sort | :+1: | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: |   | :+1: | :+1: |   | :+1: | :+1: | :+1: | :+1:|
 Cocktail Sort |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
-Coin Change |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
+Coin Change |   | :dog: |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Conjugate Gradient |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Connected Component Labeling |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Count Sort |   |   |   |   |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Counting Inversions |   |   |   | :+1: |   | :+1: |   | :+1: |   |   |   |   |   |   |   |   |  |
 Counting Sort |   |   | :dog: | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   | :+1: |   |   | :+1:|
 Cycle Sort |   |   |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
-Depth First Search |   | :+1: |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   | :+1: |   |   |  |
+Depth First Search |   | :+1: | :dog: | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   | :+1: |   |   |  |
 Diffie Hellman |   |   |   |   |   |   | :+1: |   |   |   |   | :+1: |   |   |   |   |  |
 Dijkstras |   |   | :+1: | :+1: |   | :+1: |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 Doomsday |   |   | :+1: | :+1: |   |   |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: |   |   | :+1:|
-Dynamic Programming |   |   |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
+Dynamic Programming |   | :dog: |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Edit Distance |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   | :+1:|
 Edmonds Karp |   |   |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Elevator Algorithm |   |   |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
@@ -125,14 +125,14 @@ Histogram Equalization |   |   |   |   |   |   |   | :+1: |   |   |   |   |   | 
 Insertion Sort |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :+1: | :+1:|
 Johnson Algorithm |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Kadanes |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
-Knapsack |   | :+1: | :dog: |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
+Knapsack |   | :dog: |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Knuth Morris Prath |   |   |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
 Kruskals Algorithm |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Leaky Bucket |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Linear Search |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :+1: | :+1: | :+1: | :+1: |   | :+1: | :+1: | :+1:|
 Longest Bitonic Subsequence |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Longest Common Subsequence |   | :+1: | :dog: | :+1: |   |   |   | :+1: |   |   |   | :+1: |   | :+1: |   |   |  |
-Longest Increasing Subsequence |   |   |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
+Longest Increasing Subsequence |   | :dog: |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 Longest Path |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   |  |
 Longest Subset Zero Sum |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Matrix Exponentiation |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
@@ -152,13 +152,13 @@ Rabin Karp |   |   |   |   |   |   |   | :+1: |   |   |   | :+1: |   |   |   |  
 Radix Sort |   | :+1: |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
 Segment Tree |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Segmented Sieve |   | :+1: |   |   |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
-Selection Sort |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: |   |   | :+1: |   | :+1: | :+1: | :+1: |  |
+Selection Sort |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: | :+1: | :dog: |   | :+1: |   | :+1: | :+1: | :+1: |  |
 Sequence Alignment |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Shell Sort |   |   |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   | :+1: |   |   |  |
 Sieveof Eratosthenes |   |   | :+1: | :+1: |   |   | :+1: | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 String To Token |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Strongly Connected Graph.cpp |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
-Swap |   | :+1: | :+1: | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   |   |   | :+1: | :+1:|
+Swap |   | :+1: | :dog: | :+1: |   |   |   | :+1: | :+1: | :dog: |   | :+1: |   |   |   | :+1: | :+1:|
 Tarjans Offline LCA |   |   |   | :+1: |   |   |   |   |   |   |   |   |   |   |   |   |  |
 Ternary Search |   | :+1: |   | :+1: |   |   |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 Topological Sort |   |   |   | :+1: |   |   |   | :+1: |   |   |   | :+1: |   |   |   |   |  |
