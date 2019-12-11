@@ -114,11 +114,11 @@ GitHub ID: RSuhyeon
 > knapsack problem and fractional knapsack problem  
 > Dynamic Programming for knapsack etc...  
 
-* Develop Algorithms Using Unfamiliar Languages(Kotlin, Ruby)
+* Develop Algorithms Using Unfamiliar Languages(Kotlin, C#)
 
-> knapsack problem  
 > swap   
-> selection sort etc...  
+> selection sort
+> depth first search etc...  
 * Set up Static_page  
 
 ## 류수현 :
