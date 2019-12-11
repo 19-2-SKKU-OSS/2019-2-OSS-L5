@@ -24,7 +24,7 @@ How contributed :
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.  
 >  [Coin Change] [1]  
 >  [Longest Increasing Subsequence] [2]  
->  [Knapsack Problem] [3]
+>  [Knapsack Problem] [3]  
 >  [Dynamic Programming] [4]
 
 > - Optimized Algorithms 
