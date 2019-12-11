@@ -81,6 +81,7 @@ GitHub ID: RSuhyeon
 
 * Set up Static_page 
 * Make Wiki  
+* Make Readme
     
 ## 윤상원 :
 * Develop Algorithms Using Familiar Languages(C, C++, Java) 
@@ -121,6 +122,8 @@ GitHub ID: RSuhyeon
 > depth first search etc...  
 
 * Set up Static_page  
+* Edit Wiki
+* Edit Readme
 
 ## 류수현 :
 * Develop Algorithms Using Familiar Languages(C, Java) 
