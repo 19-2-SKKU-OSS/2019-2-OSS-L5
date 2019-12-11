@@ -20,7 +20,7 @@ menu: true
 이를 이용하여 개발 능력과, 사고 능력, 최적화 기법을 학습하고 기량을 넓힐 수 있는 기회로 삼을 수 있음.
 
 -----------
-# Wiki page: [WIKI](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/wiki)
+## Wiki page: [WIKI](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/wiki)
 
 # 팀원 소개
 
