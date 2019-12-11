@@ -24,13 +24,13 @@ How contributed :
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.  
 >  [Coin Change] [1. C]  
 >  [Longest Increasing Subsequence] [2. C]  
->  [Knapsack Problem] [3.C]  
+>  [Knapsack Problem] [3. C]  
 >  [Dynamic Programming] [4. C]
 
 > - Optimized Algorithms 
 
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin  
->  [Swap] [1. Kotlin]
+>  [Swap] [1. Kotlin]  
 >  [Selection sort] [2. Kotlin]
 
 [1. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/CoinChange/CoinChange.c
