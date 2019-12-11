@@ -55,6 +55,9 @@ Implemented Source
 1. Kruskal
 2. Randomized_Qsort
 
+* Java
+1. Prim
+
 * JS
 1. Factorial
 
