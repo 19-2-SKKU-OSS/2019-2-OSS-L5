@@ -22,6 +22,7 @@ author : mikeysw
 
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.
+> [Counting Sort] [1. C++]
 
 > - Optimized Algorithms 
 
