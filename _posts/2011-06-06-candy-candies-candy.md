@@ -11,19 +11,26 @@ tags:
   - member
   - contributor
   - C++
+  - Kotlin
 author : mikeysw
+paginate: true
 ---
 
 - Name of contributor : Youn Sangwon
 - E-mail : mikeyoun2000@gmail.com
 - College : SungKyunKwan University
-- Department : Software
+- Department : Department of Software, College of Computing
 
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.
+> [Counting Sort] [C++ - 1]
 
 > - Optimized Algorithms 
 
-> - Implemented Simple Algorithms with Unfamiliar languages such as Java.
+> - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
 
 > - Build Team Static Page and Modify.
+
+> - Write comments about the algorithms
+
+[C++ -1] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/_posts/2011-06-06-candy-candies-candy.md
