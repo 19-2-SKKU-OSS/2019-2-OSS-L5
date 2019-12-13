@@ -1,3 +1,7 @@
+//Given an array of n integers and a number k, print out all pairs of elements in the array that sums to exactly k. For example, given the array [1, 2, 3, 6, 7] and k = 8, you should
+//print 1, 7 and 2, 6 out.
+
+
 #include <string>
 #include <unordered_map>
 #include <iostream>
