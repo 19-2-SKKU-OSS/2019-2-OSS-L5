@@ -26,7 +26,7 @@ How contributed :
 
 > - Optimized Algorithms 
 
-> - Implemented Simple Algorithms with Unfamiliar languages such as Java.
+> - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
 
 > - Build Team Static Page and Modify.
 
