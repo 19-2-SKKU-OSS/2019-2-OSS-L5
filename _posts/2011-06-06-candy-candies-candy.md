@@ -32,9 +32,9 @@ How contributed :
 
 > [Binary Search Tree] [C++(3)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/BinarySearchTree/BST.cpp
 
-> - Optimized Algorithms 
-
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
+
+> - Optimized Algorithms 
 
 > - Build Team Static Page and Modify.
 
