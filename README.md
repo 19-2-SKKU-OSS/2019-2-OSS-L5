@@ -54,6 +54,8 @@ GitHub ID: RSuhyeon
 **윤상원**  
 > 여러가지 언어로 코드 구현 및 issue 해결  
 > 정적 페이지 수정  
+> wiki 수정  
+> readme 수정
 
 **정노원**  
 > 여러가지 언어로 코드 구현 및 issue 해결  
