@@ -36,6 +36,6 @@ How contributed :
 
 > - Optimized Algorithms 
 
-> - Build Team Static Page and Modify.
+> - Wrote comments about the algorithms.
 
-> - Write comments about the algorithms
+> - Built Team Static Page and Modified.
