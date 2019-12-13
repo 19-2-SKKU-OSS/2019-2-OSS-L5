@@ -26,7 +26,7 @@ How contributed :
 
 > [Dutch National Flag Sort] [1. C] 
 
-> [Counting Sort] [C++(1)]  : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
+> [Counting Sort] [C++(1)]  
 
 > [Hash Table] [C++(2)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/HashTable/HT.cpp
 
@@ -45,3 +45,5 @@ How contributed :
 > - Built Team Static Page and Modified.
 
 [1. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DutchNationalFlag/DNFSorting.c
+[C++(1)]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
+
