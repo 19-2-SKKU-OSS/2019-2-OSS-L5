@@ -23,7 +23,7 @@ paginate: true
 
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.
-> [Counting Sort] [C++ - 1]
+> [Counting Sort] [C++(1)]  : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
 
 > - Optimized Algorithms 
 
@@ -32,5 +32,3 @@ How contributed :
 > - Build Team Static Page and Modify.
 
 > - Write comments about the algorithms
-
-[C++ -1] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/_posts/2011-06-06-candy-candies-candy.md
