@@ -24,16 +24,15 @@ paginate: true
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++.
 
-> [Dutch National Flag Sort] [1. C] 
-> [Counting Sort] [C++(1)]  
-> [Hash Table] [C++(2)]
-> [Binary Search Tree] [C++(3)] 
+- [Dutch National Flag Sort] [1. C] 
+- [Counting Sort] [C++(1)]  
+- [Hash Table] [C++(2)]
+- [Binary Search Tree] [C++(3)] 
 
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
 
-> [Counting Sort] [Kotlin(1)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/CountingSort/CSmine.kt
-
-> [Merge Sort] [Kotlin(2)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/MergeSort/MSmine.kt
+- [Counting Sort] [Kotlin(1)] 
+- [Merge Sort] [Kotlin(2)] 
  
 > - Optimized Algorithms 
 
@@ -45,4 +44,5 @@ How contributed :
 [C++(1)]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
 [C++(2)]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/HashTable/HT.cpp
 [C++(3)]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/BinarySearchTree/BST.cpp
-
+[Kotlin(1)]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/CountingSort/CSmine.kt
+[Kotlin(2)]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/MergeSort/MSmine.kt
