@@ -107,6 +107,7 @@ Depth First Search |   | :+1: | :dog: | :+1: |   |   |   | :+1: | :+1: |   |   |
 Diffie Hellman |   |   |   |   |   |   | :+1: |   |   |   |   | :+1: |   |   |   |   |  |
 Dijkstras |   |   | :+1: | :+1: |   | :+1: |   | :+1: | :+1: |   |   | :+1: |   |   |   |   |  |
 Doomsday |   |   | :+1: | :+1: |   |   |   | :+1: | :+1: | :+1: |   | :+1: |   | :+1: |   |   | :+1:|
+Dutch National Flag |   | :dog:  |  |  |   |   |   |  |  |  |   |  |   |  |   |   | |
 Dynamic Programming |   | :dog: |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
 Edit Distance |   |   |   | :+1: |   |   |   |   |   |   |   | :+1: |   |   |   |   | :+1:|
 Edmonds Karp |   |   |   |   |   |   |   | :+1: |   |   |   |   |   |   |   |   |  |
