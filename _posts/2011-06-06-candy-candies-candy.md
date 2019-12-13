@@ -36,6 +36,8 @@ How contributed :
 
 > [Counting Sort] [Kotlin(1)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/CountingSort/CSmine.kt
 
+> [Merge Sort] [Kotlin(2)] : 
+ 
 > - Optimized Algorithms 
 
 > - Wrote comments about the algorithms.
