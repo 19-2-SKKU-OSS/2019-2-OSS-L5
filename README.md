@@ -56,6 +56,7 @@ GitHub ID: RSuhyeon
 > 정적 페이지 수정  
 > wiki 수정  
 > readme 수정
+> 구현한 알고리즘에 영어 및 한국어 주석 삽입
 
 **정노원**  
 > 여러가지 언어로 코드 구현 및 issue 해결  
