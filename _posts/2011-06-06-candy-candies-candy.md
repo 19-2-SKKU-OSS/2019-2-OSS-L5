@@ -13,6 +13,7 @@ tags:
   - C++
   - Kotlin
 author : mikeysw
+paginate: true
 ---
 
 - Name of contributor : Youn Sangwon
@@ -22,7 +23,7 @@ author : mikeysw
 
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.
-> [Counting Sort] [1. C++]
+> [Counting Sort] [C++ - 1]
 
 > - Optimized Algorithms 
 
@@ -31,3 +32,5 @@ How contributed :
 > - Build Team Static Page and Modify.
 
 > - Write comments about the algorithms
+
+[C++ -1] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/_posts/2011-06-06-candy-candies-candy.md
