@@ -20,9 +20,19 @@ paginate: true
 - Department : mathsmatics
 
 How contributed : 
-> - Implemented Algorithms with Familiar languages such as C, C++
+> - Implemented Algorithms with Familiar languages such as C, C++, Python.  
+>  [Shell Sort] [1. C]  
+
+
 
 > - Optimized Algorithms 
 
-> - Implemented Simple Algorithms with Unfamiliar languages such as Go.
+> - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin  
+>  [Shell Sort] [1. Go]  
+>  [Factorial] [2. Go]  
 
+[1. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/tree/master/C/Shell%20Sort
+[2. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/LongestIncreasingSubsequence/LISver2.c
+
+[1. Go]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Go/shell%20sort/Shell%20sort.go
+[2. Go]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Go/Factorial/Factorial.go
