@@ -30,7 +30,7 @@ How contributed :
 
 > [Hash Table] [C++(2)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/HashTable/HT.cpp
 
-> [Binary Search Tree] [C++(3)] : 
+> [Binary Search Tree] [C++(3)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/BinarySearchTree/BST.cpp
 
 > - Optimized Algorithms 
 
