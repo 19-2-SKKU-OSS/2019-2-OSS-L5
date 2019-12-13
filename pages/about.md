@@ -81,6 +81,7 @@ GitHub ID: RSuhyeon
 
 * Set up Static_page 
 * Make Wiki  
+* Make Readme
     
 ## 윤상원 :
 * Develop Algorithms Using Familiar Languages(C, C++, Java) 
@@ -114,12 +115,15 @@ GitHub ID: RSuhyeon
 > knapsack problem and fractional knapsack problem  
 > Dynamic Programming for knapsack etc...  
 
-* Develop Algorithms Using Unfamiliar Languages(Kotlin, Ruby)
+* Develop Algorithms Using Unfamiliar Languages(Kotlin, C#)
 
-> knapsack problem  
-> swap   
-> selection sort etc...  
+> swap  
+> selection sort  
+> depth first search etc...  
+
 * Set up Static_page  
+* Edit Wiki
+* Edit Readme
 
 ## 류수현 :
 * Develop Algorithms Using Familiar Languages(C, Java) 
