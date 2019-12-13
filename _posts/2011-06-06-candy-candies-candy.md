@@ -33,4 +33,4 @@ How contributed :
 
 > - Write comments about the algorithms
 
-[C++ -1] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/_posts/2011-06-06-candy-candies-candy.md
+[C++ -1] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
