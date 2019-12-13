@@ -34,6 +34,8 @@ How contributed :
 
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
 
+> [Counting Sort] [Kotlin(1)] : 
+
 > - Optimized Algorithms 
 
 > - Wrote comments about the algorithms.
