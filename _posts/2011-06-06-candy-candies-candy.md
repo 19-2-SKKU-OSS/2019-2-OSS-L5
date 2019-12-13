@@ -44,4 +44,4 @@ How contributed :
 
 > - Built Team Static Page and Modified.
 
-[1. C] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DutchNationalFlag/DNFSorting.c
+[1. C]: https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DutchNationalFlag/DNFSorting.c
