@@ -18,7 +18,7 @@ author : mikeysw
 - Name of contributor : Youn Sangwon
 - E-mail : mikeyoun2000@gmail.com
 - College : SungKyunKwan University
-- Department : Software
+- Department : Department of Software, College of Computing
 
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++, Python.
