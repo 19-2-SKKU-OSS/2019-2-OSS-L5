@@ -22,11 +22,13 @@ paginate: true
 - Department : Department of Software, College of Computing
 
 How contributed : 
-> - Implemented Algorithms with Familiar languages such as C, C++, Python.
+> - Implemented Algorithms with Familiar languages such as C, C++.
 
 > [Dutch National Flag Sort] [C(1)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DutchNationalFlag/DNFSorting.c
 
 > [Counting Sort] [C++(1)]  : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
+
+> [Hash Table] [C++(2)] : 
 
 > - Optimized Algorithms 
 
