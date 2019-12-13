@@ -27,3 +27,5 @@ How contributed :
 > - Implemented Simple Algorithms with Unfamiliar languages such as Java.
 
 > - Build Team Static Page and Modify.
+
+> - Write comments about the algorithms
