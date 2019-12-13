@@ -34,7 +34,7 @@ How contributed :
 
 > - Implemented Simple Algorithms with Unfamiliar languages such as Kotlin.
 
-> [Counting Sort] [Kotlin(1)] : 
+> [Counting Sort] [Kotlin(1)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/Kotlin/CountingSort/CSmine.kt
 
 > - Optimized Algorithms 
 
