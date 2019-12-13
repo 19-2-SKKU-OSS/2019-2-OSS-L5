@@ -28,7 +28,7 @@ How contributed :
 
 > [Counting Sort] [C++(1)]  : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
 
-> [Hash Table] [C++(2)] : 
+> [Hash Table] [C++(2)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/HashTable/HT.cpp
 
 > - Optimized Algorithms 
 
