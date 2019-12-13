@@ -24,7 +24,7 @@ paginate: true
 How contributed : 
 > - Implemented Algorithms with Familiar languages such as C, C++.
 
-> [Dutch National Flag Sort] [C(1)] 
+> [Dutch National Flag Sort] [1. C] 
 
 > [Counting Sort] [C++(1)]  : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C%2B%2B/CountingSort/CountSort.cpp
 
@@ -44,4 +44,4 @@ How contributed :
 
 > - Built Team Static Page and Modified.
 
-[C(1)] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DutchNationalFlag/DNFSorting.c
+[1. C] : https://github.com/19-2-SKKU-OSS/2019-2-OSS-L5/blob/master/C/DutchNationalFlag/DNFSorting.c
