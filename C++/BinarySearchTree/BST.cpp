@@ -1,3 +1,10 @@
+//Write the following functions:
+//(a) PrintPreorder(root)
+//(b) Insert(n, root)
+//(c) Delete(n, root) ← Use Inorder Successor
+//(d) Balance(root) ← Convert a normal BST to a balanced BST
+//(e) root = Merge(root1, root2) ← Merge two balanced BSTs and return a new root.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <vector>
